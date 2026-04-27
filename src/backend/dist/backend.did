@@ -1,0 +1,30 @@
+type SubmitLeadResult = 
+ variant {
+   err: text;
+   ok: LeadId;
+ };
+type LeadRequest = 
+ record {
+   company: text;
+   email: text;
+   message: text;
+   name: text;
+   phone: text;
+   productInterest: text;
+ };
+type LeadId = nat;
+type Lead = 
+ record {
+   company: text;
+   email: text;
+   id: LeadId;
+   message: text;
+   name: text;
+   phone: text;
+   productInterest: text;
+   timestamp: int;
+ };
+service : {
+  getAllLeads: () -> (vec Lead) query;
+  submitLead: (req: LeadRequest) -> (SubmitLeadResult);
+}

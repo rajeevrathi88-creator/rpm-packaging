@@ -1,0 +1,29 @@
+{
+  "overview": "Premium B2B corporate website for RPM Packaging Industries — an ISO 9001:2015 certified packaging manufacturer based in Jhajjar, Haryana, India, established in 2004. The site showcases corrugated boxes, custom packaging, and die-cut products while capturing B2B leads via quote forms and WhatsApp integration.",
+  "features": [
+    "Sticky navigation header with mobile hamburger menu",
+    "Hero section with dual CTAs: Get Quote and Call Now",
+    "Product catalog with 8 product types and modal detail view",
+    "About Us page with company story, ISO certifications, and leadership profile",
+    "Contact form with Motoko backend lead capture",
+    "Portfolio page with 40+ national and international client logos",
+    "Floating WhatsApp chat button",
+    "Quote popup modal on all pages",
+    "Stats counter: 19+ years, 650 MT/month, 40+ clients",
+    "Google Maps embed for facility location",
+    "Smooth scroll animations and product card hover effects",
+    "Trust badges: ISO Certified, Quality Checked, Made in India",
+    "Mobile responsive layout"
+  ],
+  "category": "corporate-b2b-website",
+  "tags": [
+    "packaging",
+    "manufacturing",
+    "b2b",
+    "corporate",
+    "industrial",
+    "india",
+    "lead-generation"
+  ],
+  "last_updated": "2026-04-27T05:40:29.536Z"
+}
